@@ -758,7 +758,7 @@ int main(void){
             case 1:  probar_fib();          break;  //  El "break" es OBLIGATORIO: sin él la ejecución se
             case 2:  probar_fibonaccis();   break;  //  "cae" al siguiente case y ejecuta también ese código.
             case 3:  probar_collatz();      break;  //  Es uno de los errores más clásicos de C.
-            case 4:  tablero_arroz();       break;
+            case 4:  tablero_arroz();       break; 
             case 5:  probar_criba();        break;
             case 6:  probar_cadenas();      break;
             case 7:  probar_matrices();     break;
